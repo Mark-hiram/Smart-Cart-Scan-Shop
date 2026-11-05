@@ -1,0 +1,10 @@
+{
+  "name": "SmartCart – Supermarket Scan & Shop",
+  "description": "Mobile-first supermarket scan & shop system. Scan product barcodes with camera, track live running total against your budget, and manage store inventories by supermarket.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
